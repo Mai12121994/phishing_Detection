@@ -1,4 +1,5 @@
 streamlit
+sciket-learn==1.2.2
 pandas
 tensorflow
 xgboost
